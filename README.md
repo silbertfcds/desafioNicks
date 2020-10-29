@@ -6,6 +6,7 @@ Gerar 50 nicks com 8 caracteres e CPF'S aleatórios utilizando a linguagem Java 
 
 - Spring Boot
 - PhantomJS
+- HtmlUnit
 
 
 # Execução
